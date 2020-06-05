@@ -1,6 +1,6 @@
 /* home page */
 .avatar{
-    height: 350px;
+    height: 200px;
     text-align: center;
 }
 
@@ -18,9 +18,21 @@
 .about-me-left-div{
     /* height: 600px; */
     margin: auto;
-    background-color: aquamarine;
+    background-color: #5396ad;
     border-radius: 200px 200px 0px 0px;
     text-align: center;
+    color: cornsilk;
+}
+.about-me-cell{
+    font-size:20px; 
+    margin-top:10px;
+    font-family:Black Han Sans;
+    margin: auto; 
+    border:1px solid blueviolet;
+}
+.about-me-details{
+    font-family: Caveat Brush;
+    float: right;
 }
     
     

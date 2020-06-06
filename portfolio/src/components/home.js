@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
 import './main.css'
-
+import avatar from './img/myavatar.png';
 
 class Home extends Component {
     render() { 
@@ -10,7 +10,8 @@ class Home extends Component {
                 <Grid className="home-grid">
                     <Cell col={12}>
                     <img 
-                        src="https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/man3-512.png"
+                        //src="https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/man3-512.png"
+                        src={avatar}
                         alt="avatar"
                         className="avatar"
                     />

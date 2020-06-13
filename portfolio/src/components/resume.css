@@ -1,0 +1,13 @@
+.main-div{
+    /* width:100%;  */
+    margin:auto; 
+    background-color:#EBF0DC; 
+    /* height:300px;  */
+    color:#FD480E;
+}
+
+.construction{
+    text-align: center;
+    height: 600px;
+    width: 1080px;
+}

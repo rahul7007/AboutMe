@@ -13,9 +13,9 @@ class Home extends Component {
                         //src="https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/man3-512.png"
                         src={avatar}
                         alt="avatar"
-                        className="avatar"
+                        className="home-avatar"
                     />
-                    <div style={{ fontSize:'50px', paddingTop:'20px', fontFamily:'Coiny', color:'white' }}>
+                    <div style={{ fontSize:'50px', paddingTop:'20px', fontFamily:'Atomic Age', color:'white'}}>
                         Welcome to My Profile
                     </div>
 

@@ -1,12 +1,16 @@
 import React, { Component } from 'react';
-import './main.css'
+import './contact.css'
+import temp from './img/upderConstruction.png';
 
 
 class Contact extends Component {
     render() { 
         return ( 
-            <div style={{ width:'100%', margin:'auto' }}>
-                <h1>Contact</h1>    
+            <div className="contact-main-div">
+                <img 
+                    src={temp}
+                    className = "contact-construction"
+                />   
             </div>
         )
     }

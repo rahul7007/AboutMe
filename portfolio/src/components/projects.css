@@ -34,6 +34,7 @@ body {
     backface-visibility: hidden;
     border-radius: 10px;
     box-shadow: 1px 1px 5px 1px #a6cad8;
+    border: 3px solid yellow;
   }
   
   .flip-card-front {
@@ -45,4 +46,8 @@ body {
     background-color: #2f596a;
     color: white;
     transform: rotateY(180deg);
+  }
+  .avatar{
+    height: 100px;
+    text-align: center;
   }

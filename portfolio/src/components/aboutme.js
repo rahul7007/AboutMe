@@ -15,11 +15,11 @@ class AboutMe extends Component {
                 <Cell col={3}>
                     <div className="about-me-left-div">
 
-                        <img style={{marginTop:'-5px'}}
+                        <img
                             //src="https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/man3-512.png"
                             src={avatar}
                             alt="avatar"
-                            className="avatar"
+                            className="about-me-avatar"
                         />
                         <br />
                         <Grid>

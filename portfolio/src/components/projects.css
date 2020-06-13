@@ -47,7 +47,12 @@ body {
     color: white;
     transform: rotateY(180deg);
   }
-  .avatar{
+  .project-icon{
     height: 100px;
     text-align: center;
+    margin-top: 5px;
+  }
+
+  .project-name{
+    font-family: Caveat Brush;
   }

@@ -6,7 +6,7 @@ import avatar from './img/myavatar.png';
 class Home extends Component {
     render() { 
         return ( 
-            <div style={{ width:'100%', margin:'auto', border:'1px solid' }}>
+            <div style={{ width:'100%', margin:'auto', border:'0px solid' }}>
                 <Grid className="home-grid">
                     <Cell col={12}>
                     <img 

@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.128bdf7c.chunk.css",
-    "main.js": "/static/js/main.9a4838d0.chunk.js",
-    "main.js.map": "/static/js/main.9a4838d0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e5fc83a6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e5fc83a6.js.map",
-    "static/css/2.e4346227.chunk.css": "/static/css/2.e4346227.chunk.css",
-    "static/js/2.350d02fb.chunk.js": "/static/js/2.350d02fb.chunk.js",
-    "static/js/2.350d02fb.chunk.js.map": "/static/js/2.350d02fb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e974ecab38312ab238c2a491bb1dc1e9.js": "/precache-manifest.e974ecab38312ab238c2a491bb1dc1e9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.e4346227.chunk.css.map": "/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.128bdf7c.chunk.css.map": "/static/css/main.128bdf7c.chunk.css.map",
-    "static/js/2.350d02fb.chunk.js.LICENSE.txt": "/static/js/2.350d02fb.chunk.js.LICENSE.txt",
-    "static/media/iot.png": "/static/media/iot.32981c6d.png",
-    "static/media/mern2.png": "/static/media/mern2.073ea8b8.png",
-    "static/media/myavatar.png": "/static/media/myavatar.9291195a.png",
-    "static/media/pythonLogo.png": "/static/media/pythonLogo.8eefa0a8.png",
-    "static/media/upderConstruction.png": "/static/media/upderConstruction.49291a59.png"
+    "main.css": "/MyPortfolio/static/css/main.128bdf7c.chunk.css",
+    "main.js": "/MyPortfolio/static/js/main.ff9c5ee8.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.ff9c5ee8.chunk.js.map",
+    "runtime-main.js": "/MyPortfolio/static/js/runtime-main.3947db09.js",
+    "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.3947db09.js.map",
+    "static/css/2.e4346227.chunk.css": "/MyPortfolio/static/css/2.e4346227.chunk.css",
+    "static/js/2.350d02fb.chunk.js": "/MyPortfolio/static/js/2.350d02fb.chunk.js",
+    "static/js/2.350d02fb.chunk.js.map": "/MyPortfolio/static/js/2.350d02fb.chunk.js.map",
+    "index.html": "/MyPortfolio/index.html",
+    "precache-manifest.e64f55977273f4228ee836dcab877f72.js": "/MyPortfolio/precache-manifest.e64f55977273f4228ee836dcab877f72.js",
+    "service-worker.js": "/MyPortfolio/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/MyPortfolio/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.128bdf7c.chunk.css.map": "/MyPortfolio/static/css/main.128bdf7c.chunk.css.map",
+    "static/js/2.350d02fb.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.350d02fb.chunk.js.LICENSE.txt",
+    "static/media/iot.png": "/MyPortfolio/static/media/iot.32981c6d.png",
+    "static/media/mern2.png": "/MyPortfolio/static/media/mern2.073ea8b8.png",
+    "static/media/myavatar.png": "/MyPortfolio/static/media/myavatar.9291195a.png",
+    "static/media/pythonLogo.png": "/MyPortfolio/static/media/pythonLogo.8eefa0a8.png",
+    "static/media/upderConstruction.png": "/MyPortfolio/static/media/upderConstruction.49291a59.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5fc83a6.js",
+    "static/js/runtime-main.3947db09.js",
     "static/css/2.e4346227.chunk.css",
     "static/js/2.350d02fb.chunk.js",
     "static/css/main.128bdf7c.chunk.css",
-    "static/js/main.9a4838d0.chunk.js"
+    "static/js/main.ff9c5ee8.chunk.js"
   ]
 }

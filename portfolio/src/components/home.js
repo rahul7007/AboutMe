@@ -16,7 +16,7 @@ class Home extends Component {
                         className="home-avatar"
                     />
                     <div style={{ fontSize:'50px', paddingTop:'20px', fontFamily:'Atomic Age', color:'white'}}>
-                        Welcome to My Profile
+                        Welcome to My World
                     </div>
 
                     <hr className="hr-design"/>
